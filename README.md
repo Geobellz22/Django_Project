@@ -1,2 +1,4 @@
 # Django_Project
-This is a django project that deals with using blog app with django
+This is a blog application project using pythom django framework 
+AS part of the requirement for the Foundation Portfolio Project in ALX
+Stack Used: Front-end html, css Back-end Django
